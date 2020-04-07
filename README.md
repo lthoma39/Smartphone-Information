@@ -1,7 +1,7 @@
 ## Smartphone-Information
 An Android app that displays information about smart phones.
 
-<img src=http://g.recordit.co/ee4Ky80j4n.gif width=200><br>
+<img src=http://g.recordit.co/Oz9bnMGO9k.gif width=200><br>
 
 ## Project Description
 Design and code an Android app that displays information about smart phones. The app’s main activity
