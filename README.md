@@ -15,5 +15,4 @@ a small fortune). Feel free to choose your images from pictures publicly-availab
 or otherwise protected) on the Internet. Also, feel free to choose how to fit the pictures into thumbnails
 appearing in your list (e.g. whether to scale the picture or not, etc.) You should include at least 6 items in
 the list and ensure that the list is scrollable. (The list should not fit in the display of the Pixel device; at least
-one item should be completely off-screen due to screen size.) Also, make sure to include adequate padding
-inside the UI elements contained in each list item. Your list view should have a “pleasant” look-and-feel.
+one item should be completely off-screen due to screen size.) 
